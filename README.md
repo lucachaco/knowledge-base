@@ -3,7 +3,7 @@
 ##AngularJS Git Commit Message Conventions
 > https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#
 
-##semantic-release
+##Semantic Release
 > https://github.com/semantic-release/semantic-release
 
 
